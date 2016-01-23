@@ -1,9 +1,8 @@
 package model;
 
-import gameLogic.Manager;
-
 import java.util.ArrayList;
 
+import model.manager.Manager;
 import controller.Controller;
 
 public class Model {

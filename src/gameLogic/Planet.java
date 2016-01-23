@@ -2,7 +2,7 @@ package gameLogic;
 
 import java.util.ArrayList;
 
-abstract class Planet {
+public abstract class Planet {
 	protected String name;
 	protected ArrayList<Elements2000K> elements2000 = new ArrayList<Elements2000K>();
 	protected ArrayList<Elements300K> elements300 = new ArrayList<Elements300K>();
