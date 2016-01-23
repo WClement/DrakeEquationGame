@@ -1,3 +1,5 @@
+package gameLogic;
+
 public class test {
 		public static void main(String[] args){
 			Planet closePlanet = PlanetFactory.thePlanet("2000K");
